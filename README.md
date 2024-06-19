@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+k[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15281794&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
@@ -182,8 +182,11 @@ Installation complete restart windows to complete.
 
 
 
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
+- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore). link to the repository [https://github.com/1409e/My_sample_project.git]
+- A reflection on the challenges faced during setup and strategies employed to overcome them.1. Difficulty finding the right tools and workflows of new languages; Observing the class lecture videos and discussions in groups helped to overcome.
+  2. Configuring .gitignore; Consulting documentation to understand the procedures.
+  3. Setting up MySQL; followed class recordings and reviewing documentation.
+  4. Setting up Docker; Troubleshooting and using You Tube videos.
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
